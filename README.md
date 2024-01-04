@@ -3,14 +3,14 @@ I'm a hobbyist programmer from Germany working mostly on personal projects for p
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
-  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
-  <img style="padding: 0 1rem;height: 3rem;" src="https://www.debian.org/logos/openlogo-nd.svg">
-  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg">
-  <img style="padding: 0 1rem;height: 3rem;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
-  <img style="padding: 0 1rem;height: 3rem;" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg">
-  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg">
-  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://www.debian.org/logos/openlogo-nd.svg">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">&emsp;
 </div>
 
 ### :fire: My Stats:
