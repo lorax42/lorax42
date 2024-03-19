@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a hobbyist programmer from Germany working mostly on personal projects for pesonal use. Feel free to fork anything anytime.
+I'm a hobbyist programmer from Germany working mostly on personal projects for pesonal use. Feel free to use anything anytime.
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
