@@ -6,6 +6,7 @@ I'm a hobbyist programmer from Germany working mostly on personal projects for p
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://www.debian.org/logos/openlogo-nd.svg">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">&emsp;
