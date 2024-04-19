@@ -16,14 +16,14 @@ I'm a hobbyist programmer from Germany working mostly on personal projects for p
 </div>
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lloydbush&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorax42&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloydbush&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorax42&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
 <!--
-**lloydbush/lloydbush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lorax42/lorax42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
