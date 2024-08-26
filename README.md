@@ -10,7 +10,7 @@ I'm a hobbyist programmer from Germany working mostly on personal projects for p
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="CMake">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git">&emsp;
-  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="[https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg](https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg)" alt="Neovim">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="Bash">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX">&emsp;
 </div>
