@@ -14,6 +14,7 @@ I'm a hobbyist programmer from Germany working mostly on personal projects for p
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="CMake">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://github.com/catppuccin/catppuccin/blob/7f91fd7b911870f67c7edf3146106b8251681c8f/assets/logos/exports/1544x1544_circle.png" alt="Catppuccin">&emsp;
 </div>
 
 ### :fire: My Stats:
