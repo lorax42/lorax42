@@ -7,14 +7,14 @@ I'm a hobbyist programmer from Germany working mostly on personal projects for p
   <img style="padding: 0 1rem;height: 3rem;" src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim">&emsp;
+  <img style="padding: 0 1rem;height: 3rem;" src="https://github.com/catppuccin/catppuccin/blob/7f91fd7b911870f67c7edf3146106b8251681c8f/assets/logos/exports/1544x1544_circle.png" alt="Catppuccin">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="Bash">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++">&emsp;
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C">&emsp;
-  <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="CMake">&emsp;
-  <img style="padding: 0 1rem;height: 3rem;" src="https://github.com/catppuccin/catppuccin/blob/7f91fd7b911870f67c7edf3146106b8251681c8f/assets/logos/exports/1544x1544_circle.png" alt="Catppuccin">&emsp;
+  <!-- <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="CMake">&emsp; -->
 </div>
 
 ### :fire: My Stats:
