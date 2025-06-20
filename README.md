@@ -1,6 +1,10 @@
 # Hi there 👋
 I'm a hobbyist programmer from Germany working mostly on personal projects for pesonal use. Feel free to use anything anytime.
 
+> [!Warning]
+> In the future I'll be trying to migrate to [Codeberg](https://codeberg.org/lorax) to gain independance from Microsoft.
+> Do to the nature of companies I have no trust in them respecting my privacy or sovereignety.
+
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img style="padding: 0 1rem;height: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux">&emsp;
